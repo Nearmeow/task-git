@@ -1,4 +1,4 @@
-Harry Potter book
+Harry Potter book:
 One The Philosopher's Stone (1997)
 Two The Chamber of Secrets (1998)
 Three The Prisoner of Azkaban (1999)
